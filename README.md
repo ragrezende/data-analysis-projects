@@ -1,39 +1,11 @@
-# 📊 Data Analysis Projects
+# Estudos de análise de dados
 
-Data analysis projects built using **Python**, **Pandas**, **SQL**, and **Power BI**.
+**Estado: planejamento encerrado; preservado como histórico de estudos.**
 
----
+Este repositório foi iniciado em 2025. Os exemplos descritos na versão anterior do README eram planos e não correspondem a implementações disponíveis no branch principal. Não há entregas funcionais para executar neste repositório e não há manutenção ativa prevista.
 
-## 🧩 Overview
-- Data cleaning and preprocessing  
-- Exploratory data analysis  
-- Visualization and storytelling  
-- Insights and reports based on real datasets  
+O foco atual é desenvolver ferramentas para a rotina jurídica e manter uma frente cristocêntrica paralela. Acompanhe o [perfil de Rafael Rezende](https://github.com/ragrezende).
 
----
+O histórico Git foi preservado. Não há dados de clientes neste projeto.
 
-## 🧪 Example Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| Global Sales | Sales performance by region and category | Python, Pandas |
-| COVID-19 Insights | Data comparison and vaccination analysis | Python, Matplotlib |
-| HR Analytics | Employee turnover and performance metrics | Power BI, SQL |
-
----
-
-## 📈 Visualizations
-Dashboards available on [Tableau Public](https://public.tableau.com/) and [Power BI Community](https://community.powerbi.com/).
-
----
-
-## 🧠 Skills Developed
-✅ Python for data analysis  
-✅ SQL queries and joins  
-✅ Data visualization and dashboards  
-✅ Reporting and storytelling  
-
----
-
-## 📬 Contact
-📧 **rafaelrezende.dev@gmail.com**
-
+<!-- Atualizado com apoio do Codex em 19/10/2026, conforme direção aprovada por Rafael. -->
